@@ -79,3 +79,12 @@ let tuple2: [number, string, boolean] = [1, "Hello", true];
 // a = "Hello";
 // a = false ;
 
+// =================================
+// Inerfaces and Type Aliases 
+
+
+
+// Defining interfaces to define object 
+// Extending interfaces 
+//  Type aiases 
+// Intersection types 

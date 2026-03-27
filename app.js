@@ -61,4 +61,10 @@ let tuple2 = [1, "Hello", true];
 // a = 20;
 // a = "Hello";
 // a = false ;
+// =================================
+// Inerfaces and Type Aliases 
+// Defining interfaces to define object 
+// Extending interfaces 
+//  Type aiases 
+// Intersection types 
 //# sourceMappingURL=app.js.map
