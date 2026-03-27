@@ -30,4 +30,27 @@ let tuple2 = [1, "Hello", true];
 // userRole.ADMIN; // "admin"
 // userRole.USER; // "user"
 // any, void, never, unknown,null, undefined
+// let a : any; // any type, can hold any value
+// a = 10; // number
+// a = "Hello"; // string
+// a = true; // boolean
+// unknown type, can hold any value but requires type checking before use
+//  let a:unknown;
+//  a = 10; // number
+// a = "hello"; // string
+// if (typeof a === "string") {
+//         a.toUpperCase(); // TypeScript knows 'a' is a string here
+//     }
+// void type, typically used for functions that do not return a value
+// function abcd (): void {
+//     console.log("This function does not return anything.");
+// }
+// function p1 ():number { 
+//     return 10; 
+// } 
+// function p2 ():string  { 
+//     return "Hello"; 
+// } 
+// let a:null;
+// let b :undefined;
 //# sourceMappingURL=app.js.map
