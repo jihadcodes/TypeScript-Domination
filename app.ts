@@ -72,5 +72,10 @@ let tuple2: [number, string, boolean] = [1, "Hello", true];
 // ======================
 // Type Interence 
 // Understanding type interence 
+
 // Tyoe annotaions 
+// let a : number | string | boolean ;
+// a = 20;
+// a = "Hello";
+// a = false ;
 

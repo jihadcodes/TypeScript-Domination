@@ -57,4 +57,8 @@ let tuple2 = [1, "Hello", true];
 // Type Interence 
 // Understanding type interence 
 // Tyoe annotaions 
+// let a : number | string | boolean ;
+// a = 20;
+// a = "Hello";
+// a = false ;
 //# sourceMappingURL=app.js.map
