@@ -53,4 +53,8 @@ let tuple2 = [1, "Hello", true];
 // } 
 // let a:null;
 // let b :undefined;
+// ======================
+// Type Interence 
+// Understanding type interence 
+// Tyoe annotaions 
 //# sourceMappingURL=app.js.map

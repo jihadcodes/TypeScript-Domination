@@ -67,3 +67,10 @@ let tuple2: [number, string, boolean] = [1, "Hello", true];
 
 // let a:null;
 // let b :undefined;
+
+
+// ======================
+// Type Interence 
+// Understanding type interence 
+// Tyoe annotaions 
+
